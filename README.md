@@ -1,7 +1,7 @@
 # Luis Enrique Olave Mosquera
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Ingeniero+Inform%C3%A1tica+|+En+Formaci%C3%B3n;Backend+Developer+|+AI+Enthusiast;Construyendo+soluciones+reales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Ingeniero+Inform%C3%A1tico+|+En+Formaci%C3%B3n;Backend+Developer+|+AI+Enthusiast;Construyendo+soluciones+reales" alt="Typing SVG" />
 </p>
 
 ---
